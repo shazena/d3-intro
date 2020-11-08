@@ -1,8 +1,19 @@
+import React, {Component} from 'react';
 import './App.css';
+import {drawSVG} from './charts/svg'
 
-function App() {
-  return (
-    <div className="App">
+class App extends Component{
+  constructor() {
+    
+  }
+
+  componentDidMount() {
+    drawSVG()
+  }
+
+  render() {
+    return (
+      <div className="App">
       <header>
         <h1>Intro to D3.js</h1>
         <i>by Lia Kapanadze</i>
@@ -27,9 +38,10 @@ function App() {
       </div>
       <div className="chart" id="chart7">
       <h3>Chart #6</h3>
+        </div>
       </div>
-    </div>
-  );
+    )
+}
 }
 
 export default App;
