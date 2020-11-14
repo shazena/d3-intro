@@ -1,0 +1,9 @@
+[
+  { "text":"Sleep", "count": 8 },
+  { "text":"Work", "count": 12 },
+  { "text":"TV", "count": 1 },
+  { "text":"Shower", "count": 0.5 },
+  { "text":"Scroll", "count": 2.5 }
+
+
+]

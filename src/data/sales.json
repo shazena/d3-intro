@@ -1,6 +1,10 @@
 [
-  { "product":"Hand Sanitizer", "abbr": "HS", "count": 146572000 },
-  { "product":"Shoes", "abbr": "SH", "count": 50000 },
-  { "product":"Toilet Paper", "abbr": "TP", "count": 1000400 },
-  { "product":"Peloton Bikes", "abbr": "PB", "count": 3000000 }
+  { "text":"Sanitizer", "abbr": "HS", "count": 2000 },
+  { "text":"Shoes", "abbr": "SH", "count": 500 },
+  { "text":"Soap", "abbr": "TP", "count": 1000 },
+  { "text":"Peloton", "abbr": "PB", "count": 3000 },
+  { "text":"Peloton", "abbr": "PB", "count": 3000 },
+  { "text":"Peloton", "abbr": "PB", "count": 3000 },
+   { "text":"Peloton", "abbr": "PB", "count": 3000 }
+
 ]
